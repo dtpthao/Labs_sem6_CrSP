@@ -1,0 +1,6 @@
+﻿  Lab4.cpp
+e:\thao\3 kurc\sem2\labs_sem6_crsp\labs_sem6_crsp\lab4.cpp(36): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\thao\3 kurc\sem2\labs_sem6_crsp\labs_sem6_crsp\lab4.cpp(120): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\thao\3 kurc\sem2\labs_sem6_crsp\labs_sem6_crsp\lab4.cpp(124): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Labs_sem6_CrSP.vcxproj -> E:\Thao\3 kurc\sem2\Labs_sem6_CrSP\Debug\Labs_sem6_CrSP.exe
+  Labs_sem6_CrSP.vcxproj -> E:\Thao\3 kurc\sem2\Labs_sem6_CrSP\Debug\Labs_sem6_CrSP.pdb (Partial PDB)
